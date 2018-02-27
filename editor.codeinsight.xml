@@ -1,0 +1,12 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+  </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseJSImports" value="false" />
+    <option name="COLLAPSE_JS_IMPORTS" value="false" />
+  </component>
+</application>

@@ -1,0 +1,23 @@
+<templateSet group="JavaScript">
+  <template name="babelistanbul" value="// Needed for istanbul coverage due to https://github.com/istanbuljs/babel-plugin-istanbul/issues/63&#10;$name$.displayName = '$name$';&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="bracket" value="[ $SELECTION$ ]" description="Brackets" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="parens" value="( $SELECTION$ )" description="Parentheses" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="curlybraces" value="{ $SELECTION$ }" description="Curly Braces" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

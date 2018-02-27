@@ -1,0 +1,54 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CSS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.5.0/bin/node">
+      <version-cache version="8.5.0" last-modified="1505225484000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v8.5.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.1.2/bin/node">
+      <version-cache version="8.1.2" last-modified="1497527566000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.9.1/bin/node">
+      <version-cache version="6.9.1" last-modified="1476914300000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v6.9.1/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.6.0/bin/node">
+      <version-cache version="6.6.0" last-modified="1473874249000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.3.0/bin/node">
+      <version-cache version="6.3.0" last-modified="1467824484000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v6.3.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.7/bin/node">
+      <version-cache version="4.4.7" last-modified="1467147430000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v4.4.7/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="4.4.5" last-modified="1464111025000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="4.4.5" last-modified="1464111025000" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v6.3.0/bin/node" version="6.3.0" last-modified="1467824484000" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.7/bin/node" version="4.4.7" last-modified="1467147430000" />
+  </component>
+</application>
